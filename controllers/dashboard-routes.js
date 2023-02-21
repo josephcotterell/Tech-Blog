@@ -1,7 +1,7 @@
 //require express router
 const router = require("express").Router();
 //post model
-const { Post } = require("../models/");
+const { Post } = require("../models");
 // with auth middleware
 const withAuth = require("../utils/auth");
 
