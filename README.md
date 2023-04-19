@@ -19,7 +19,7 @@ Joseph Cotterell
 # Links
 
 Github repo https://github.com/josephcotterell/Tech-Blog
-Geroku deployment (tech-blog111.herokuapp.com)
+Heroku deployment (tech-blog111.herokuapp.com)
 
 # Contact
 
