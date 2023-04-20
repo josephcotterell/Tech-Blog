@@ -1,9 +1,9 @@
 //user const
-const User = require("./User");
+const User = require("./user");
 //post const
-const Post = require("./Post");
+const Post = require("./post");
 //comment const
-const Comment = require("./Comment");
+const Comment = require("./comment");
 
 //post belongs to user
 Post.belongsTo(User, {
